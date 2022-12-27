@@ -1,0 +1,100 @@
+@import 'https://fonts.googleapis.com/css?family=Kanit|Prompt';
+
+table,th,td {
+    border: 2px solid black;
+    background-color: #d1e6ca;
+    font-family: 'Prompt', sans-serif;
+}
+
+table {
+    margin: auto;
+}
+
+#title {
+    background-color: rgb(115, 248, 155);
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+    font-family: 'Noto Sans Thai', sans-serif !important;
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+body {
+    text-align: center;
+    background-color: #c6f1d6;
+    font-family: 'Mitr', sans-serif;
+}
+
+table {
+    background-color: #58ff76;
+}
+
+.navbar {
+    background-color: #45ad7d;
+    font-family: 'Mitr', sans-serif;
+    text-align: center;
+}
+.head {
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+    margin-left: 35%;
+    min-height: 4rem;
+    background-color: #45ad7d;
+    width: 30%;
+    border-radius: 15px;
+    box-shadow: 2px 5px 2px;
+    font-size: 100px; 
+   
+    }
+.h1{
+    color : rgb(9, 7, 7);
+    font-family: 'Mitr', sans-serif;
+    text-align: center;
+    font-size: 70px; 
+}
+.nav-link{
+    color: black;
+}
+.nav-link active{
+    color: black;
+    
+}
+.title-imge3{
+    position: absolute;
+    width: 500px;
+    height: 280px;
+    margin-left: 750px;
+
+}
+.title-imge2{
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    margin-right: 800px;
+}
+.title-imge1{
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    margin-left: 750px;
+}
+.title-imge4{
+    position: absolute;
+    margin-top: 3.5rem;
+    width: 290px;
+    height: 170px;
+    margin-right: 600px;
+}
+.title-imge5{
+    position: absolute;
+    margin-top: 3.5rem;
+    width: 290px;
+    height: 170px;
+    margin-left: 400px;
+}
+button{
+    background-color: #45ad7d;
+}
